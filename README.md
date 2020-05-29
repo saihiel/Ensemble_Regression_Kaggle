@@ -1,4 +1,4 @@
-# Ensemble Model for Kaggle Competition on Beijing Pollution dataset
+# Ensemble Model for Kaggle Competition on Beijing Pollution Data
 The competition rules where to make a regression model to predict the response variable for an initially unknown dataset. There were over 200 participating teams in this private competition held for University of Toronto students. I participated alone and my model achieved first place on the final leaderboard.
 
 I built a weighted ensemble model consisting of a Linear Generalised Additive Model (GAM) and an Extreme Gradient Boosted Tree Regressor Model (XGBM). 
