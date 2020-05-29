@@ -5,7 +5,7 @@ I built a weighted ensemble model consisting of a Linear Generalised Additive Mo
 
 I went through multiple iterations of training with a plathora of different models before reaching my final model. The details about my entire process can be found on the pdf contained in this repository along with the python code for the final model.
 
-Some of the techniques I applied are Feature Creation, Feature Selection, Bayesian Optimizations and Grid Searches.
+Some of the feature engineering and hyperparameter tuning techniques I applied are Feature Creation, Feature Selection, Bayesian Optimizations and Grid Searches.
 
 ## Results
 
